@@ -30,7 +30,7 @@ It's nice to meet you, I'm an artist...mostly abstract, I've included some links
 
 - Opensea ERC721 TOKEN: [(https://testnets.opensea.io/assets/goerli/0x1471a3eede217eb0b61742d0987b7334107833ae/0)
 
-- Mirror.xyz/thompsonart.eth (article being updated)
+- Mirror.xyz/thompsonart.eth (https://mirror.xyz/thompsonart.eth/HuvJ_KoSJ8nfZ1Mz9xPvU4KwCJNIPkhV7G9LU1gS6oM)
 
 *I did mention this below - I added the burn function to my contract so I could test it. I didn't think I'd be able to join you all in the course & was just going to do it alone...I can redo it all if need be!*
 
