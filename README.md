@@ -26,7 +26,7 @@ When pertaining to the state of the blockchain, coding, applications, mathematic
 
 - Opensea ERC721 TOKEN: [(https://testnets.opensea.io/assets/goerli/0x1471a3eede217eb0b61742d0987b7334107833ae/0)
 
-*I did mention this below - I added the burn function to my contract so I could test it. I didn't think I'd be able to join you all in the course & was just going to do it alone...I can redo it all if need be!
+*I did mention this below - I added the burn function to my contract so I could test it. I didn't think I'd be able to join you all in the course & was just going to do it alone...I can redo it all if need be!*
 
 ---------------------------
 # WEEK 1 - CHALLENGE 1
