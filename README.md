@@ -27,14 +27,14 @@ When pertaining to the state of the blockchain, coding, applications, mathematic
 - Opensea ERC721 TOKEN: [(https://testnets.opensea.io/assets/goerli/0x1471a3eede217eb0b61742d0987b7334107833ae/0)
 
 ---------------------------
-WEEK 1 - CHALLENGE 1
+# WEEK 1 - CHALLENGE 1
 How to Develop an NFT Smart Contract (ERC721) with Alchemy
 
-# Answers to Questions are also on GitHub: 
+# Answers to Questions : 
 
 Who are you, and what is your software development background?
 
-I’m an artist, always have been. My dev background is pretty much me teaching myself any and everything I can about smart contracts so I can understand what I am putting my name to. It’s come to the point that I would like to be able to ‘create' for others, but also advocate for myself when things go wrong as they always do. I’d like to be my own tech support and understand the space I’m in. I want to build. 
+I’m an artist, always have been. My dev background is pretty much me teaching myself any and everything I can about smart contracts so I can understand what I am putting my name to. It’s come to the point that I would like to be able to ‘create' for others, but also advocate for myself when things go wrong as they always do. I’d like to be my own tech support and understand the space I’m in. I want to build. (I guess my software dev background is not terribly extensive! haha)
 
 2. Why did you want to complete this lesson?
 
@@ -42,7 +42,7 @@ Well, I want to complete each and every lesson I can. I want to absorb as much k
 
 3. When did you complete the project?
 
-11.11.22 was when I completed this part of the project, but I completed part I of the challenge yesterday 11.10.22. I’m new to finding the program and plan to 
+11.11.22 3:30am
 
 4. What technologies did you use?
 
