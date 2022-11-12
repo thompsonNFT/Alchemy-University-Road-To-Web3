@@ -1,6 +1,6 @@
 # CHALLENGE 1 - WEEK 1  
 
-Alchemy-University-Road-To-Web3
+Alchemy-Road to Web3 
 
 Take a look at any dictionary and you’ll get some version of the definition below for the word ‘Alchemy’ -- A word I’ve always not only liked the sound of, but the meaning as well:
 
