@@ -10,7 +10,11 @@ It’s magical. You’re trying to turn one thing from an earlier state into ano
 
 When pertaining to the state of the blockchain, coding, applications, mathematical languanges, ai art, algorithms -- there will be these instances of an  everyday, commonplace item transfoming into something that is catapaulted past its competetoors. The name alchemy is a perfect fit for this developer's platform -- it's a perfect fit for anyone that wants to learn modern day ‘magic’.
 
+It's nice to meet you, I'm an artist...mostly abstract, I've included some links to my art, but I'm trying to teach myself how to be my own tech support in the world that is and is going to be smart contracts & NFTS. I am creating my own smart contracts in Manifold. I’d very much like to get a better understand of said contracts. I’d like to be able to be my own tech support and add my own extensions to my own contracts — the goal is a better understanding of the code and the language in order to understand what I am signing my name to. 
+
 --------------------------
+
+- Tutorial w VittoStack
 
 - Challenge from Alchemy University: https://university.alchemy.com/ | https://twitter.com/AlchemyLearn
 
@@ -56,14 +60,18 @@ Alchemy, OpenZeppelin, REMIX, MetaMask, OpenSea, Goerli, , Mirror, FileBase, IPF
 
 Following along was pretty easy bc I've been reading and dealing w smart contracts for a few months. I enjoy anything that has to do with NFTs and contracts so using Remix is really interesting. I'd like to get to the point where I can just put them together and create anything. I did add the burn function to mine so I can go back and learn a little about that as well. Hope that's ok!
 
-6. How do you think you can use this technology to build useful applications in the future? What are some specific example applications?
+6. How do you think you can use this technology to build useful applications in the future? What are some specific example applications? 
 
-In so many ways. In creating NFTs for my art in the future, but in creating the apps that the contracts & NFTs run on. Apps like DUNE for analytics and ledgers and most importantly as mentioned above -- I’d like to be my own tech support in every way possible. 
+There are so many use cases for this tech. Just to expand on adding the specific functions to existing smart contracts…know how to do this is key in todays society. I think there are so few people that actually ‘understand’ what they are doing. In creating NFTs for my art in the future, but in creating the apps that the contracts & NFTs run on. Apps like DUNE for analytics and ledgers and most importantly as mentioned above. I’d like to be my own tech support in every way possible. There will be many applications like analytic apps, tracking & counting apps, information processing & managing future projects. The applications are key to keeping future projects running smoothly - Alchemy makes so much of this possibly & I’d love to be able to create these apps. 
 
 7.Who would you recommend this project to?
 
-Anyone that wants to be ready for whats coming down the pipeline.
+8. What did you learn from the project? 
 
-8. What is the Ethereum wallet address you would like to receive your PoK at?
+I learned a bit more on how to tailor a contract to one’s specific functions. (I added the burn function to my contract so I can learn from it. 
+
+Anyone that wants to be ready for whats coming down the pipeline. 1 friend has already signed up
+
+9. What is the Ethereum wallet address you would like to receive your PoK at?
 
 0xe72eeB929e5aa9bB4F6A346376546a19708c100B
