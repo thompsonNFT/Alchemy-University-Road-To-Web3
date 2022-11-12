@@ -16,7 +16,7 @@ What about the state of the blockchain? If we are talking about this definition 
 
 - Challenge Link: https://docs.alchemy.com/docs/how-to-develop-an-nft-smart-contract-erc721-with-alchemy
 
-- Challenge Completed by: @ThompsonART | Thompsonnft@gmail.com
+- Challenge Completed by: ThompsonART | @thompsonnft | Thompsonnft@gmail.com
 
 - Contract Address: 0x1471A3EedE217EB0b61742D0987B7334107833aE
 
