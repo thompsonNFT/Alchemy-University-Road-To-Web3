@@ -22,6 +22,19 @@ It's nice to meet you, I'm an artist...mostly abstract, I've included some links
 
 - Challenge Completed by: ThompsonART | @thompsonnft | Thompsonnft@gmail.com
 
+------------------------ AlchemyART
+
+*Realized I had minted w a wrong version of the contract - i'm testing diff functions & versions...(was originally doing this for fun) Just redid challenge #1 and added the info below:
+
+- Opensea ERC721 TOKEN: https://testnets.opensea.io/assets/goerli/0x5fd40cf278ef86a5bb44a0d6095a8c9c3c09e830/0
+
+- Etherscan Contract Link: https://goerli.etherscan.io/bytecode-decompiler?a=0x5fd40cf278ef86a5bb44a0d6095a8c9c3c09e830
+
+- Opensea Collection Link: https://testnets.opensea.io/collection/alchemyart
+
+
+------------------------AlchemyART2
+
 - Contract Address: 0x1471A3EedE217EB0b61742D0987B7334107833aE
 
 - Etherscan Contract Link: (https://goerli.etherscan.io/bytecode-decompiler?a=0x1471a3eede217eb0b61742d0987b7334107833ae)
